@@ -31,6 +31,6 @@ This repository currently contains the built static app, not the original React 
 
 ## Deployment
 
-GitHub Actions publishes the static site to [GitHub Pages](https://badrebadri.github.io/Reverse-engineer-app/) whenever a commit is pushed to `master). The workflow stages the app in `_site` and adjusts the built-in base path for the repository's Pages URL.
+GitHub Actions publishes the static site to [GitHub Pages](https://badrebadri.github.io/Reverse-engineer-app/) whenever a commit is pushed to `master`. The workflow stages the app in `_site` and adjusts the built-in base path for the repository's Pages URL.
 
 See [workflow runs](https://github.com/badrEbadri/Reverse-engineer-app/actions) for deployment status.
